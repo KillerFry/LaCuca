@@ -1,5 +1,0 @@
-E:\KillerFry\Downloads\Source\Source\Repos\TestingFNA\LaCuca\bin\Release\LaCuca.dll
-E:\KillerFry\Downloads\Source\Source\Repos\TestingFNA\LaCuca\bin\Release\LaCuca.pdb
-E:\KillerFry\Downloads\Source\Source\Repos\TestingFNA\LaCuca\obj\Release\LaCuca.csprojResolveAssemblyReference.cache
-E:\KillerFry\Downloads\Source\Source\Repos\TestingFNA\LaCuca\obj\Release\LaCuca.dll
-E:\KillerFry\Downloads\Source\Source\Repos\TestingFNA\LaCuca\obj\Release\LaCuca.pdb
